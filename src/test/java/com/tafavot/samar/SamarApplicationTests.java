@@ -1,4 +1,4 @@
-package com.example.samar;
+package com.tafavot.samar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.example.samar.Repository;
+package com.tafavot.samar.Repository;
 
-import com.example.samar.Entity.Users;
+import com.tafavot.samar.Entity.Users;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
